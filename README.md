@@ -26,3 +26,8 @@
 - Condições Compostas
 - Condições Aninhadas
 - Condições Mútiplas
+
+# MÓDULO E - Rpetições em JavaScript
+- Repetições com teste no início
+- Repetições com teste no final
+- Repetições com controle
