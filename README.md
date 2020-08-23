@@ -20,3 +20,9 @@
 - Document Object Model
 - Árvore DOM
 - Manipulando DOM
+
+# MÓDULO D - Condições em JavaScript
+- Condições simples
+- Condições Compostas
+- Condições Aninhadas
+- Condições Mútiplas
