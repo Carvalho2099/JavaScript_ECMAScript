@@ -31,3 +31,8 @@
 - Repetições com teste no início
 - Repetições com teste no final
 - Repetições com controle
+
+# MÓDULO F - Avançando os estudos em JavaScript
+- Variáveis Compostas
+- Uso de Funções e Eventos
+- Passagem de Parâmetros
